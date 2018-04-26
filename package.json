@@ -1,7 +1,7 @@
 {
-  "name": "bitcoind-rpc",
-  "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
-  "version": "0.7.0",
+  "name": "ravend-rpc",
+  "description": "Ravencoin Client Library to connect to Ravencoin via RPC",
+  "version": "0.7.1",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
@@ -25,12 +25,12 @@
     }
   ],
   "keywords": [
-    "bitcoin",
+    "ravencoin",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcoind-rpc"
+    "url": "https://github.com/underdarkskies/ravend-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -49,7 +49,7 @@
     "async": "^1.3.0"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcoind-rpc/issues"
+    "url": "https://github.com/underdarkskies/ravend-rpc/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcoind-rpc"
+  "homepage": "https://github.com/underdarkskies/ravend-rpc"
 }

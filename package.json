@@ -1,29 +1,11 @@
 {
   "name": "ravend-rpc",
   "description": "Ravencoin Client Library to connect to Ravencoin via RPC",
-  "version": "0.7.1",
+  "version": "1.0.0",
   "author": {
-    "name": "Stephen Pair",
-    "email": "stephen@bitpay.com"
+    "name": "Under",
+    "email": ""
   },
-  "contributors": [
-    {
-      "name": "Jeff Garzik",
-      "email": "jgarzik@bitpay.com"
-    },
-    {
-      "name": "Manuel Araoz",
-      "email": "manuelaraoz@gmail.com"
-    },
-    {
-      "name": "Matias Alejo Garcia",
-      "email": "ematiu@gmail.com"
-    },
-    {
-      "name": "Braydon Fuller",
-      "email": "braydon@bitpay.com"
-    }
-  ],
   "keywords": [
     "ravencoin",
     "rpc"

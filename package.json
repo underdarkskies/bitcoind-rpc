@@ -1,7 +1,7 @@
 {
   "name": "ravend-rpc",
   "description": "Ravencoin Client Library to connect to Ravencoin via RPC",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": {
     "name": "Under",
     "email": ""

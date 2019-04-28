@@ -1,4 +1,4 @@
-Ravencoin'use strict';
+'use strict';
 
 var chai = require('chai');
 var RpcClient = require('../');
